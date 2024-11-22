@@ -7,7 +7,7 @@
 
 <h3 align="left">Lenguajes y Herramientas (BackEnd): </h3>
 <p align="left"> 
-      <a><img src="https://github.com/user-attachments/assets/1d6db826-8e27-40c6-9e67-ba7813594fa5" /></a>
+      <a><img src="https://github.com/user-attachments/assets/1d6db826-8e27-40c6-9e67-ba7813594fa5" width="40" height="40"/></a>
       <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/4e771e44-d134-4f4c-bf54-1630121469a9" width="40" height="40" /></a>
       <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/d09e2443-c974-438b-a070-2451f2b208be" width="40" height="40" /></a>
       <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/304b24bc-159b-4c45-954f-234fa0c52379" width="40" height="40" /></a>
