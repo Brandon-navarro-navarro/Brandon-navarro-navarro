@@ -1,4 +1,6 @@
-<img align="center" src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1" width="100%" alt="csharp" /> 
+<img align="center" src="https://github.com/user-attachments/assets/02ea0c92-8a17-4797-89bb-b08a6939a9f8" width="100%" alt="csharp" /> 
+
+
 <h1 align="center">Hola 👋, Soy Brandon Navarro</h1>
 <h3 align="center">Desarrollador Full Stack, Autodidacta y proximo Ingeniero en Sistemas.</h3>
 
