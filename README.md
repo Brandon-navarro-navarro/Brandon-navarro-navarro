@@ -8,7 +8,7 @@
 👨‍💻 Full Stack Developer | Analista de Procesos Empresariales | Administrador de Bases de Datos  
 🚀 Apasionado por crear soluciones tecnológicas eficientes y escalables.  
 
-👾 #Especialidades:  
+👾 # Especialidades:  
 
 🌐 Desarrollo Full Stack: C#, Java, JavaScript  
 🛠️ Backend robusto: .NET, Spring Boot, Node.js  
