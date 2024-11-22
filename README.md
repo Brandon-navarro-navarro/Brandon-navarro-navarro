@@ -8,15 +8,16 @@
 👨‍💻 Full Stack Developer | Analista de Procesos Empresariales | Administrador de Bases de Datos  
 🚀 Apasionado por crear soluciones tecnológicas eficientes y escalables.  
 
-👾 Especialidades:  
+👾 #Especialidades:  
 
-🌐 Desarrollo Full Stack: C#, Java, JavaScript
-🛠️ Backend robusto: .NET, Spring Boot, Node.js
-🎨 Frontend dinámico: Angular, React
+🌐 Desarrollo Full Stack: C#, Java, JavaScript  
+🛠️ Backend robusto: .NET, Spring Boot, Node.js  
+🎨 Frontend dinámico: Angular, React  
 🗄️ Gestión y optimización de bases de datos: SQL Server, MySQL, PostgreSQL
+
 💡 Experiencia en:
 
-🧩 Análisis y diseño de procesos empresariales para mejorar flujos de trabajo.
+🧩 Análisis y diseño de procesos empresariales para mejorar flujos de trabajo.  
 🖇️ Integración de sistemas complejos con APIs RESTful y microservicios.
 🔒 Seguridad en aplicaciones con JWT, OAuth2, y mejores prácticas.
 📚 Siempre aprendiendo: Explorando nuevas tecnologías como Docker, Blazor, y low-code/no-code platforms para ampliar mi impacto en proyectos innovadores.
