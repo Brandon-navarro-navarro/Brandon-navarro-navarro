@@ -2,9 +2,9 @@
 <h1 align="center">Hola 👋, Soy Brandon Navarro</h1>
 <h3 align="center">Desarrollador Full Stack, Autodidacta y proximo Ingeniero en Sistemas.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Vue.js, Python, Node Js, Angular, ASP.NET Core, Dart, Flutter, Kotlin**
+- 🌱 Actualmente estoy aprendiendo **NodeJS, Python, Spring
 
-- 📫 Comunicate conmigo **kreyshin@gmail.com**
+- 📫 Comunicate conmigo **brandon.153120@gmail.com**
 
 
  <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" alt="csharp" /> 
