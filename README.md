@@ -4,9 +4,6 @@
 
 
 
-<img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" alt="csharp" /> 
-
-
 
 <h3 align="left">Lenguajes y Herramientas (BackEnd): </h3>
 <p align="left"> 
@@ -18,7 +15,6 @@
       <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/d2dba751-9910-4cb8-925a-2c555d244fe4" width="40" height="40" /></a>
       <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/0f1efe42-8ff8-42d9-9037-535772e6a5b0" width="40" height="40" /></a>
       <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/5f349db7-f38a-4ff8-ae02-065b50e77ada" width="40" height="40" /></a>
-
 </p>
 
 <h3 align="left">Lenguajes y Herramientas (FronEnd):</h3>
