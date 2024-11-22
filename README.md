@@ -1,6 +1,7 @@
 <img align="center" src="https://github.com/user-attachments/assets/02ea0c92-8a17-4797-89bb-b08a6939a9f8" width="100%" alt="csharp" /> 
 
 
+
 - 🌱 Actualmente estoy aprendiendo **NodeJS, Python, Spring
 
  <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" alt="csharp" /> 
