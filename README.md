@@ -27,7 +27,7 @@
       <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/d2dba751-9910-4cb8-925a-2c555d244fe4" width="40" height="40" /></a>
       <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/0f1efe42-8ff8-42d9-9037-535772e6a5b0" width="40" height="40" /></a>
       <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/5f349db7-f38a-4ff8-ae02-065b50e77ada" width="40" height="40" /></a>
-      <a><img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" width="40" height="40" /></a>
+
 </p>
 
 <h3 align="left">Lenguajes y Herramientas (FronEnd):</h3>
@@ -39,7 +39,6 @@
   <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/e83a8ffc-22f7-4273-85ae-028a5cd2f30d" width="40" height="40" /></a>
   <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/11bcb225-18a7-4d2b-b19b-e8c471b0dcaa" width="40" height="40" /></a> 
   <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/a0085868-325f-4fb0-b17a-2d86e4bb73a0" width="40" height="40" /></a>
-  <a><img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">Herramientas de Gestion</h3>
