@@ -1,8 +1,8 @@
 <img align="center" src="https://github.com/user-attachments/assets/02ea0c92-8a17-4797-89bb-b08a6939a9f8" width="100%" alt="csharp" /> 
 
 
-<h1 align="center">Hola 👋, Soy Brandon Navarro</h1>
-<h3 align="center">Desarrollador Full Stack, Autodidacta y proximo Ingeniero en Sistemas.</h3>
+[<h1 align="center">Hola 👋, Soy Brandon Navarro</h1>]
+[<h3 align="center">Desarrollador Full Stack, Autodidacta y proximo Ingeniero en Sistemas.</h3>]
 
 - 🌱 Actualmente estoy aprendiendo **NodeJS, Python, Spring
 
