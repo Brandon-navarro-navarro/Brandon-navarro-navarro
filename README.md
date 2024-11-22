@@ -15,7 +15,7 @@
 🎨 Frontend dinámico: Angular, React  
 🗄️ Gestión y optimización de bases de datos: SQL Server, MySQL, PostgreSQL
 
-💡 Experiencia en:
+ # 💡 Experiencia en:
 
 🧩 Análisis y diseño de procesos empresariales para mejorar flujos de trabajo.  
 🖇️ Integración de sistemas complejos con APIs RESTful y microservicios.
