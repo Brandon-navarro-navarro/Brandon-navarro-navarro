@@ -10,6 +10,9 @@
 🛠️ Backend robusto: .NET, Spring Boot, Node.js  
 🎨 Frontend dinámico: Bootstrap, Tailwin, Angular  
 🗄️ Gestión y optimización de bases de datos: SQL Server, MySQL, PostgreSQL, Oracle, MongoDb
+🧠 Gestion de Proyectos: Jira, Scrum
+👽 Diseño de interfaces: Adobe XD
+
 
  # 💡 Experiencia en:
 
