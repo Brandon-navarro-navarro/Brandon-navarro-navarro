@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/user-attachments/assets/02ea0c92-8a17-4797-89bb-b08a6939a9f8" width="100%" alt="csharp" />  
 
-
+****
 👨‍💻 Full Stack Developer | Analista de Procesos Empresariales | Administrador de Bases de Datos  
 🚀 Apasionado por crear soluciones tecnológicas eficientes y escalables.  
 
@@ -12,6 +12,7 @@
 🗄️ Gestión y optimización de bases de datos: SQL Server, MySQL, PostgreSQL, Oracle, MongoDb
 🧠 Gestion de Proyectos: Jira, Scrum
 👽 Diseño de interfaces: Adobe XD
+💻 Patrones de diseño de Software: MCV, N-Capas, Reposotory, Singleton, Inyeccion de dependencias, Clean Architecture, SOLID
 
 
  # 💡 Experiencia en:
